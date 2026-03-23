@@ -1,3 +1,10 @@
+# 1.0.0 (2026-03-23)
+
+
+### Features
+
+* add feature X ([60198a2](https://github.com/Osoriomtzantonio/frontend2-project-app-trivias/commit/60198a2292210f25e9c7e73c3119359745d91adc))
+
 ## [1.1.1](https://github.com/JosephRangel/frontend2-week3-activity/compare/v1.1.0...v1.1.1) (2026-03-22)
 
 
