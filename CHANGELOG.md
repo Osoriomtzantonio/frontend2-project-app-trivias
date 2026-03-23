@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Osoriomtzantonio/frontend2-project-app-trivias/compare/v1.0.0...v1.1.0) (2026-03-23)
+
+
+### Features
+
+* login docker hub fix and final release ([4470bb2](https://github.com/Osoriomtzantonio/frontend2-project-app-trivias/commit/4470bb26c11d231d2cf27ed1a51c6aa8fe4298c5))
+
 # 1.0.0 (2026-03-23)
 
 
